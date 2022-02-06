@@ -1,6 +1,7 @@
 ### Hi there 👋
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=schy2503">
 새해에는 열심히 공부를 해보자!
+화이팅!
 <!--
 **indenterrxr/indenterrxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
