@@ -1,7 +1,7 @@
 
 <!-- <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=schy2503">  
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indenterrxr&show_icons=true&theme=radical)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bar-d&show_icons=true&theme=radical)  
 
 <!--
 **indenterrxr/indenterrxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
