@@ -1,6 +1,6 @@
 
 <div align="center">
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Groot-94&show_icons=true&theme=radical"/>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=bar-d&show_icons=true&theme=radical"/>
 
   
 ### Hi there 👋
@@ -15,7 +15,7 @@ Hello, I'm Bard <br>
  
 ---
   
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Groot-94&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bar-d&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
 
 ## Skills & Tools
 <div align="left">
