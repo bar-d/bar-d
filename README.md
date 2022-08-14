@@ -18,7 +18,7 @@ Hello, I'm Bard <br>
  
 ---
   
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bar-d&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bar-d&theme=dracula&layout=compact"/></a>
 
 ## Skills & Tools
 <div align="left">
