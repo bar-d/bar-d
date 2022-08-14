@@ -1,3 +1,6 @@
+​<div align="center">
+    
+![](https://i.imgur.com/VvoWlWo.gif)
 
 <div align="center">
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=bar-d&show_icons=true&theme=radical"/>
