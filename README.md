@@ -5,14 +5,14 @@
 <div align="center">
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=bar-d&show_icons=true&theme=radical"/>
 
-  
-### Hi there 👋
-
+ 
+### Experience 
 <div align="left">
-Hello, I'm Bard <br>
 
-- Yagom Academy iOS Career Stater Camp 6th
-- Yagom Academy iOS Code Stater Camp 3th
+
+- Yagom Academy iOS Career Stater Camp 6th (2022.04~2022.10)
+- Yagom Academy iOS Code Stater Camp 3th (2022.02~2022.03)
+- Hanyang University, Economics(ERICA) (2014.03~2022.02)
  <br>
  
 </div>
@@ -21,12 +21,13 @@ Hello, I'm Bard <br>
   
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bar-d&theme=dracula&layout=compact"/></a>
 
-## Skills & Tools
-<div align="left">
+### Skills&Tools
+<div align="center">
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white) 
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white&edge_flat=false) 
 ![iOS](https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white) 
 <img src="https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
+    
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
@@ -34,18 +35,3 @@ Hello, I'm Bard <br>
  
 </div>
  
-
-<!--
-**indenterrxr/indenterrxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
